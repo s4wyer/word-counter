@@ -2,6 +2,14 @@
 
 A simple svelte word counter
 
+![Screenshot](/static/screenshot.png)
+
+## Features
+
+- Counts words
+- Counts characters
+- Looks cool
+
 ## Developing
 
 ```bash
