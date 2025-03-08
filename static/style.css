@@ -1,0 +1,39 @@
+/* TODO: mobile media queries */
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("Inter-Regular.woff2") format("woff2");
+}
+
+html {
+  font-family: Inter;
+  background-color: #171717;
+}
+
+textarea {
+  background-color: transparent;
+  color: #d4d4d8;
+  font: inherit;
+  border: none;
+  outline: none;
+  resize: none;
+  width: 75%;
+  height: 90vh;
+}
+
+main {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 100%;
+}
+
+.word-count {
+  color: #858585;
+  font-weight: 500;
+}
