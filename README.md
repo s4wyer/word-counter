@@ -8,6 +8,7 @@ A simple svelte word counter
 
 - Counts words
 - Counts characters
+- Saves to localStorage
 - Looks cool
 
 ## Developing
