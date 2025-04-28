@@ -1,3 +1,0 @@
-- Time to read
-- Time to speak
-- Word frequency
