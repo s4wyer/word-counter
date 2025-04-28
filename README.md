@@ -1,6 +1,6 @@
 # word-counter
 
-A simple svelte word counter
+A simple word counter written in Svelte
 
 ![Screenshot](/static/screenshot.png)
 
@@ -9,7 +9,7 @@ A simple svelte word counter
 - Counts words
 - Counts characters
 - Saves to localStorage
-- Looks cool
+- Looks nice
 
 ## Developing
 
@@ -23,8 +23,15 @@ pnpm run dev -- --open
 
 To create a production version:
 
-```bash
+```sh
 pnpm run build
 ```
 
 You can preview the production build with `pnpm run preview`.
+
+## Todo
+
+- [ ] Time to read
+- [ ] Time to speak
+- [ ] Word frequency
+
