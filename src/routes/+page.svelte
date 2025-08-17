@@ -25,7 +25,7 @@
 		if (browser) {
 			const savedText = localStorage.getItem('text');
 			if (savedText !== null) {
-				text = savedText; // Ensure reactivity
+				text = savedText;
 			}
 		}
 	});

@@ -1,6 +1,6 @@
 # word-counter
 
-A simple svelte word counter
+A simple word counter written in Svelte.
 
 ![Screenshot](/static/screenshot.png)
 
@@ -28,3 +28,9 @@ pnpm run build
 ```
 
 You can preview the production build with `pnpm run preview`.
+
+## Todo
+
+- [ ] Time to read
+- [ ] Time to speak
+- [ ] Word frequency
