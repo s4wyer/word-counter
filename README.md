@@ -4,7 +4,7 @@ A simple word counter written in Svelte.
 
 ![Screenshot](/static/screenshot.png)
 
-You can see it live at [svelte-word-counter.vercel.app](https://svelte-word-counter.vercel.app/)
+You can see it live at [word-counter.sawyer.systems](https://word-counter.sawyer.systems/).
 
 ## Features
 
